@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Learn Express",
+      "description": "Study routing and middleware",
+      "status": "in-progress",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "title": "Test API with Postman",
+      "description": "Create collection and test all routes",
+      "status": "todo",
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "title": "Clean up code",
+      "description": "Remove unused variables",
+      "status": "done",
+      "userId": 2
+    }
+  ]
+}
